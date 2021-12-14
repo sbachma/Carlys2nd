@@ -5,6 +5,9 @@ import java.util.Scanner;
  * the price would be and whether it would be a large event or not.
  * By Sam Bachman
  */
+
+//Adding a comment to commit
+
 public class Main {
     public static void main(String[] args) {
         int numGuests = getNumGuests();
